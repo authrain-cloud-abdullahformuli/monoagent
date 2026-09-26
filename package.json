@@ -1,0 +1,28 @@
+{
+  "name": "monoagent",
+  "version": "1.0.0",
+  "description": "The browser-native autonomous AI agent workbench that lives in a single HTML file.",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com> (https://github.com/authrain-cloud-abdullahformuli)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/authrain-cloud-abdullahformuli/monoagent.git"
+  },
+  "homepage": "https://authrain-cloud-abdullahformuli.github.io/monoagent",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test-regressions.js",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai-agent",
+    "autonomous-agent",
+    "single-file",
+    "browser-native",
+    "mcp",
+    "llm",
+    "byok",
+    "pyodide",
+    "local-first",
+    "agentic-workflow"
+  ]
+}
